@@ -1,0 +1,35 @@
+
+body {
+    background: #D5F5E3;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+header {
+    margin-top: 70px ;
+}
+
+h1 {
+    color: #229954;
+    font-family: fantasy;
+}
+
+h2 {
+    font-family: fantasy;
+}
+
+p {
+   font-size: 18px;
+}
+
+footer{
+    margin-bottom: 30px;
+}
+
+.img.padrão {
+    margin-bottom: 20px;
+}
+
+.logo {
+    width: 30px;
+}
